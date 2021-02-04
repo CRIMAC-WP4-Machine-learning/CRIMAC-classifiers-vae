@@ -36,3 +36,6 @@ examining manual annotations, and mapping them to the latent space. If
 the latent mapping is useful, different annotations should occupy
 dense and distinct regions.
 
+Also: check latent representation against species as identified by
+Deep Vision.
+
