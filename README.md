@@ -22,10 +22,12 @@ For visualization purposes, the representation should be 2D or 3D.
 
 0. Identify a large data set that provides the same frequencies and
    uses the same sampling intervals.
-1. Using a segment of a ping as input, train for reconstruction
+1. Using a segment of a ping as input (sv and angles) , train for
+   reconstruction
 2. Ditto, but train for reconstructing the next ping (eliminate noise)
 3. Include one or more observational variables: depth, time of day,
    time of year, lattitude, temperature
+4. Factor out total intensity/acoustic mass?
 
 ### Testing
 
